@@ -1,2 +1,2 @@
 # Neural-Network-Lab
- Lab Asssignemnts of Nueral Network and Deep Learning.
+ Lab Asssignemnts of Neural Network and Deep Learning.
